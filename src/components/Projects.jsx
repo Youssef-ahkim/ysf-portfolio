@@ -1,5 +1,5 @@
 import React from "react";
-import image1 from "../img/projet-image-1.png";
+import image1 from "../img/projet-image-1.webp";
 
 const projectsData = [
   { image: image1, title: "this portfolio" },

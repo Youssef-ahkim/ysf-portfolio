@@ -1,6 +1,6 @@
 /* Background */
 .bg {
-  background: url('./img/bg.png') center / cover;
+  background: url('./img/bg.webp') center / cover;
   width: 100%;
   height: 100vh;
 }
