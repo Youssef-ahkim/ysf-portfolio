@@ -82,6 +82,11 @@ nav {
   animation: slideIn 1.5s ease forwards;
 }
 
+.about-text{
+  backdrop-filter: blur(2em);
+
+}
+
 /* Text Styles */
 .title-text {
   color: #b3c7ff;
